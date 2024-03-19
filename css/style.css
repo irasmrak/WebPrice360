@@ -100,3 +100,21 @@ footer{
     margin: auto;
     margin-top: 24px;
 }
+.testimonial{
+    width: 1872px;
+    height: 803px;
+    background-color: #Fff;
+    margin: auto;
+    margin-top: 24px;
+}
+.section-title{
+    text-align: center;
+    padding: 112px;
+}
+.login-page{
+    width: 803px;
+    height: 803px;
+    background-color: #ffffff;
+    margin: auto;
+    margin-top: 24px;
+}
